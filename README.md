@@ -27,5 +27,5 @@
 
  import multable
 
- print(multable.multiplication())
+multable.multiplication()
  ```

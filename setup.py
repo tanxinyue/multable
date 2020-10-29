@@ -15,10 +15,10 @@ setuptools.setup(
     version="0.0.1",
     author="李厚奇",
     author_email="884359533@qq.com",
-    description="A small example package",
+    description="调用此方法可打印9*9乘法表",
     long_description='调用此方法可以打印9*9乘法表',
     long_description_content_type="text/markdown",
-    url="https://github.com/tanxinyue/jiujiu",
+    url="https://github.com/tanxinyue/multable",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
